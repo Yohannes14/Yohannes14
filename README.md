@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yohannes14
 - 👀 I’m interested in software developer
-- 🌱 I’m currently learning web developer
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning web developer and working software developer
+- 💞️ I’m looking to collaborate on difference project
 - 📫 How to reach me ...
 
 <!---
