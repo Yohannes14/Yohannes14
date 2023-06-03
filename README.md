@@ -2,7 +2,7 @@
 - 👀 I’m working as a software developer (MERN )
 - 🌱 I’m currently learning software developer and working software developer
 - 💞️ I’m looking to collaborate on difference project
-- Contact me: Linkedin - Badgehttps://www.linkedin.com/in/yohannes-degu-300b70259/
+- Contact me: https://www.linkedin.com/in/yohannes-degu-300b70259/
 
 
 🛠️ Languages and Tools :
